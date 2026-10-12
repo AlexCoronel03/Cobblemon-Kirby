@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon_kirby:kirby",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon_kirby:kirby",
+      "model": "cobblemon_kirby:kirby.geo",
+      "texture": "cobblemon_kirby:textures/pokemon/kirby/kirby.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon_kirby:textures/pokemon/kirby/kirby_shiny.png"
+    }
+  ]
+}

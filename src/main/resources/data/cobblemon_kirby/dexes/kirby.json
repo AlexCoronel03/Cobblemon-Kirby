@@ -1,0 +1,8 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon_kirby:kirby",
+  "sortOrder": 100,
+  "entries": [
+    "cobblemon_kirby:kirby"
+  ]
+}

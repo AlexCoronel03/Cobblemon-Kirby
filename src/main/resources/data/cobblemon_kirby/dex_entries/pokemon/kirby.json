@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon_kirby:kirby",
+  "speciesId": "cobblemon_kirby:kirby",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": []
+}

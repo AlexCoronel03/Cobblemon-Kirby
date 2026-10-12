@@ -1,0 +1,7 @@
+{
+  "cobblemon_kirby.species.kirby.name": "Kirby",
+  "cobblemon_kirby.species.kirby.desc": "A round, pink wanderer with a bottomless appetite. Kirby studies whoever stands in front of it and mimics that opponent's greatest strength.",
+  "cobblemon.ability.copyability": "Copy Ability",
+  "cobblemon.ability.copyability.desc": "Copies the highest base stat of the opposing Pokémon it is facing.",
+  "cobblemon.battle.activate.copyability": "%1$s copied %2$s's base %3$s!"
+}

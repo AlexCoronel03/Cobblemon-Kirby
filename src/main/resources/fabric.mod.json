@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblemon_kirby",
+  "version": "${version}",
+  "name": "Cobblemon Kirby",
+  "description": "Adds Kirby (#1984, Fairy) to Cobblemon with a custom model, animations and the signature ability Copy Ability, which copies the highest base stat of the opposing Pokémon.",
+  "authors": ["alexcoronel414"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/cobblemon_kirby/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.alexcoronel.cobblemonkirby.CobblemonKirby"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "fabric-api": "*",
+    "cobblemon": ">=1.8.0",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}

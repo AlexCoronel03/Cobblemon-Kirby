@@ -1,0 +1,10 @@
+build/
+.gradle/
+run/
+.idea/
+*.iml
+__pycache__/
+node_modules/
+dist/
+logs/
+.vscode/
