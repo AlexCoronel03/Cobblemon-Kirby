@@ -11,9 +11,3 @@ animations were all created for this project.
   or endorsed by them, Nintendo, The Pokémon Company or the Cobblemon team.
 * Scream Tail's base stats (used for Kirby's stats) are game data read from Cobblemon's own species file at build
   time of the data (`tools/gen_species.py`).
-
-## History note
-
-Early commits (up to `e44c227`) contained a texture derived from Cobblemon's Jigglypuff model, which is published
-under a Creative Commons Attribution-NonCommercial licence. It was replaced by original art and removed from the
-tree; if you need a history free of it, use a clone taken after the commit that removes `tools/source/`.
